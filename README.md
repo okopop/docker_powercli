@@ -1,3 +1,3 @@
 # docker_powercli
 
-running powercli in docker on photon os, stuff :)
+running powercli, in docker, on photon os... stuff :)
